@@ -1,0 +1,20 @@
+{
+  "name": "mvc-with-backend",
+  "version": "1.0.0",
+  "description": "Some long text",
+  "main": "index.js",
+  "dependencies": {
+    "express-basic-auth": "^1.1.4",
+    "json-server": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js"
+  },
+  "keywords": [
+    "mvc"
+  ],
+  "author": "Eugene",
+  "license": "MIT"
+}
